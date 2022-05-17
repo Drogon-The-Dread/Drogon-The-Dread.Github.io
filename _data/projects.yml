@@ -1,0 +1,83 @@
+# > name: Name of your project
+# > descr: Description of your project
+# > demo: Link to your project
+# > tags: List of technologies you used in your projects
+#
+# Example of a project
+# - name: project X
+#   descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+#   demo: https://example.com/
+#   tags:
+#     - tag: MongoDB
+#     - tag: Express
+#     - tag: AngularJS
+#     - tag: Node
+
+- name: Alexander Battery Technologies
+  descr: "Developing software for battery testing and creation, including writing
+    C++ for Arduinos, Microcontroller Hex codes and I2C. I also created C#
+    software for the improvement and testing of batteries. As the Full Stack
+    Software Developer, I work on both front-end and back-end of all
+    programs and Intranet websites. I maintain all Repositories and deal
+    with all Merges, Commits and other maintenance of GitLab
+    "
+  tags:
+    - tag: Git
+    - tag: SSH
+    - tag: C
+    - tag: C++
+    - tag: C#
+    - tag: .NET
+    - tag: SQL
+    - tag: Servers
+    - tag: virtualisation
+
+- name: Vertex
+  descr: "Programming and customisation of CAD software for customers
+    including making custom connections and Profile sections. Talking with
+    customers to assist in any software issues including creating bug
+    reports and fixing bugs. Doing design work for the globe including LGS
+    structures and Modular buildings. Training customers and staff.
+    Creation of webpages using Java script and HTML for download links
+    of new versions of the live program. Publishing versions after updates.
+    Creating and maintaining the AR and VR phone app used to identify
+    “Stud” LGS members and their location in the plan.
+    "
+  tags:
+    - tag: Git
+    - tag: SSH
+    - tag: C#
+    - tag: HTML
+    - tag: Javascript
+    - tag: Virtualisation
+
+- name: CleverClogsITServices
+  descr: "Generating new products and modifying existing products, including
+    software and hardware for customers. Reporting problems and
+    deficiencies in the product and brief appropriate person or fix Bugs and
+    Issues. Itemizing all components and materials for all jobs. Providing
+    technical advice and assistance to the team. Managing projects. Using
+    varied packages from Autodesk, Dassault, Microsoft and JetBrains:
+    These include Revit, Solidworks, Inventor, AutoCAD, Civil 3D, Advance
+    Steel, Maya, Dreamweaver, Visual Studio, NP++ and Rider. Involved in
+    prototypes and trials. Maintaining files and records throughout
+    contracts. Carrying out pre- and post-order and/or project-specific
+    changes. Undertaking of physical testing of prototypes, samples, and
+    software. Ensuring that projects take full regard for all health and safety
+    requirements. These include: **Sewerby Hall, Bootham School, V2 Storm
+    Drainage California, Car park drainage systems, Colonnade Foyer
+    (York Royal Theatre), Budweiser, Marvel Studios, German Military** and
+    Private contacts.
+    "
+  tags:
+    - tag: Git
+    - tag: SSH
+    - tag: Ruby
+    - tag: Python
+    - tag: C#
+    - tag: C++
+    - tag: HTML
+    - tag: React
+    - tag: Node
+    - tag: Servers
+    - tag: .NET

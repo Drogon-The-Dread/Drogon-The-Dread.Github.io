@@ -1,0 +1,45 @@
+# > name: Name of your Dev Tool
+# > weight: Describes how good you know the tool - values from 1 up to 5
+#
+# Example of a Dev Tool
+# - name: Git
+#   weight: 5
+
+- name: Git
+  weight: 5
+
+- name: Bash
+  weight: 5
+
+- name: Scrum
+  weight: 3
+
+- name: KISS
+  weight: 5
+
+- name: DRY
+  weight: 4
+
+- name: SOLID
+  weight: 4
+
+- name: Agile
+  weight: 5
+
+- name: gulp
+  weight: 4
+
+- name: VSCode
+  weight: 5
+
+- name: VSStudio
+  weight: 5
+
+- name: Rider
+  weight: 5
+
+- name: Virtualisation
+  weight: 2
+
+- name: Servers
+  weight: 5
