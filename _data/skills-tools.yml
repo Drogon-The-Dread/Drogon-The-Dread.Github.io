@@ -27,7 +27,7 @@
   weight: 5
 
 - name: gulp
-  weight: 4
+  weight: 3
 
 - name: VSCode
   weight: 5

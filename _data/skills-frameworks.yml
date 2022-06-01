@@ -6,13 +6,13 @@
 #   weight: 5
 
 - name: React
-  weight: 3
+  weight: 2
 
 - name: Node
   weight: 2
 
 - name: .NET
-  weight: 5
+  weight: 4
 
 - name: Django
   weight: 3

@@ -34,11 +34,13 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: I am a Computer Engineer with over 9 years of experience in, C, C++, 
-  C#, and Python environments as well as Jira, Agile and Git software, 
-  using various IDEs to create back and front-end applications and 
-  webpages or web-based programs. Extensive use of Servers, SQL, 
-  Shell, and Bash.
+about_me_description: I am a Computer Engineer with over 8 years of experience in
+  programming various complexities and languages including C, C++,
+  C#, and Python. Use of platforms such as Jira and Git software,
+  using various IDEs to create back and front-end applications and
+  webpages or web-based programs. Extensive use of Servers, SQL,
+  Shell, and Bash. Due to my use of varied languages and
+  frameworks, I am looking for Junior roles.
   You can hire <a class="highlight-link" href="/assets/CV/CV.pdf" target="_blank" rel="noreferrer"> Me </a>.
 
 # SKILLS SECTION

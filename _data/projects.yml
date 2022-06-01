@@ -15,11 +15,16 @@
 
 - name: Alexander Battery Technologies
   descr: "Developing software for battery testing and creation, including writing
-    C++ for Arduinos, Microcontroller Hex codes and I2C. I also created C#
-    software for the improvement and testing of batteries. As the Full Stack
-    Software Developer, I work on both front-end and back-end of all
-    programs and Intranet websites. I maintain all Repositories and deal
-    with all Merges, Commits and other maintenance of GitLab
+    C++ for Arduinos, Microcontroller Hex codes and I2C commands. I
+    also created the C# UWP software for the improvement and testing
+    of batteries, based on .NET Framework with small .NET Core
+    features. As the Full Stack Software Developer, I work on both the
+    front-end and back-end of all programs and Intranet websites. These
+    include using HTML, CSS, React and other Javascripts I maintain all
+    Repositories and deal with all Merges, Commits and other
+    maintenance of GitLab. Continuous integration and development of
+    all current software and firmware such as WPF, WinForms, C and
+    C++ Firmware.
     "
   tags:
     - tag: Git
@@ -30,7 +35,8 @@
     - tag: .NET
     - tag: SQL
     - tag: Servers
-    - tag: virtualisation
+    - tag: Virtualisation
+    - tag: LINQ
 
 - name: Vertex
   descr: "Programming and customisation of CAD software for customers
@@ -51,23 +57,27 @@
     - tag: Javascript
     - tag: Virtualisation
 
-- name: CleverClogsITServices
-  descr: "Generating new products and modifying existing products, including
-    software and hardware for customers. Reporting problems and
-    deficiencies in the product and brief appropriate person or fix Bugs and
-    Issues. Itemizing all components and materials for all jobs. Providing
-    technical advice and assistance to the team. Managing projects. Using
-    varied packages from Autodesk, Dassault, Microsoft and JetBrains:
-    These include Revit, Solidworks, Inventor, AutoCAD, Civil 3D, Advance
-    Steel, Maya, Dreamweaver, Visual Studio, NP++ and Rider. Involved in
-    prototypes and trials. Maintaining files and records throughout
-    contracts. Carrying out pre- and post-order and/or project-specific
-    changes. Undertaking of physical testing of prototypes, samples, and
-    software. Ensuring that projects take full regard for all health and safety
-    requirements. These include: **Sewerby Hall, Bootham School, V2 Storm
-    Drainage California, Car park drainage systems, Colonnade Foyer
-    (York Royal Theatre), Budweiser, Marvel Studios, German Military** and
-    Private contacts.
+- name: CleverClogsITServices (Myself)
+  descr: "Generating new 3d modelled products or software in various
+    languages and frameworks. Modifying existing software and
+    hardware for customers. Reporting problems and deficiencies in the
+    product and brief appropriate person or fix Bugs and Issues.
+    Itemizing all components and materials for all jobs. Providing
+    technical advice and assistance to the team. Managing projects.
+    Using varied packages from Autodesk, Dassault, Microsoft and
+    JetBrains: These include Revit, Solidworks, Inventor, AutoCAD, Civil
+    3D, Advance Steel, Maya, Dreamweaver, Visual Studio, NP++ and
+    Rider. Involved in prototypes and trials. Maintaining files and records
+    throughout contracts. Carrying out pre-and post-order and/or
+    project-specific changes. The undertaking of physical testing of
+    prototypes, samples, and software. Ensuring that projects take full
+    regard for all health and safety requirements. These include Sewerby
+    Hall, Bootham School, V2 Storm Drainage California, Car park
+    drainage systems, Colonnade Foyer (York Royal Theatre),
+    Budweiser, Marvel Studios, Barclays, German Military and Private
+    contracts. As well as many more, not all of the jobs I have done with
+    my company fit neatly into a category so please feel free to ask me
+    about them
     "
   tags:
     - tag: Git
